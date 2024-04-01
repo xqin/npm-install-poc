@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "npm-module-with-postinstall": "git+https://github.com/xqin/npm-module-with-postinstall#master"
+    "npm-module-without-postinstall": "git+https://github.com/xqin/npm-module-without-postinstall#master"
   },
   "keywords": [],
   "author": "",

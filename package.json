@@ -6,6 +6,9 @@
   "dependencies": {
     "npm-module-with-postinstall": "git+https://github.com/xqin/npm-module-with-postinstall#master"
   },
+  "overrides": {
+    "node-sass": "8"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
